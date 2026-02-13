@@ -1,5 +1,19 @@
 # 📹 Camera Stream Manager
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Segurança (Jetson Orin Nano)](https://github.com/AslamSys/_system/blob/main/hardware/seguranca/README.md)** → **seguranca-camera-stream-manager**
+
+### Containers Relacionados (seguranca)
+- [seguranca-brain](https://github.com/AslamSys/seguranca-brain)
+- [seguranca-yolo-detector](https://github.com/AslamSys/seguranca-yolo-detector)
+- [seguranca-face-recognition](https://github.com/AslamSys/seguranca-face-recognition)
+- [seguranca-event-analyzer](https://github.com/AslamSys/seguranca-event-analyzer)
+- [seguranca-alert-manager](https://github.com/AslamSys/seguranca-alert-manager)
+- [seguranca-video-recorder](https://github.com/AslamSys/seguranca-video-recorder)
+
+---
+
 **Container:** `camera-stream-manager`  
 **Ecossistema:** Segurança  
 **Hardware:** Jetson Orin Nano 8GB  
